@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 ruby "~> 3.0.2"
 
+gem "psych", "3.0.3"
+
 # json
 gem "json"
 
